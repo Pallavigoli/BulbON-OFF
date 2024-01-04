@@ -1,0 +1,57 @@
+body{
+    background-image:url(images/download.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#first{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 35px;
+    text-decoration-line:underline;
+    text-shadow: 2px 2px 2px #1599ea;
+}
+.matter{
+    background-repeat: no-repeat;
+    background-size:1100px;
+    border: 4px inset #1599ea;
+    margin: 95px 400px 50px;
+    padding: 5px;
+    background-color: aliceblue;
+}
+#second{
+    margin-top: 25px;
+    text-align: justify;
+    text-align: center;
+    color: teal;
+}
+#on
+{
+    width:90px; 
+    height:50px;
+    margin-left: 200px;
+    margin-bottom: 5px;
+}
+#on:hover{
+    border:5px outset rgb(10, 120, 110);
+}
+#off:hover{
+    border:5px outset rgb(128, 11, 91);
+}
+#off
+{
+    width: 90px; 
+    height:50px;
+}
+img{
+    margin: 70px;
+    float: center;
+}
+#center { 
+    display: block; 
+    margin-top: 0px;
+    margin-left: auto; 
+    margin-right: auto;
+    margin-bottom: 10px; 
+    width: 200px;
+    height: 200px; 
+}

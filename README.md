@@ -25,6 +25,6 @@ Make sure you have the following installed:
 - Web browser
   
 ## Usage
-Open the index.html file in a web browser.
-Click the "lightON" button to turn on the light.
-Click the "lightOFF" button to turn off the light.
+- Open the index.html file in a web browser.
+- Click the "lightON" button to turn on the light.
+- Click the "lightOFF" button to turn off the light.
